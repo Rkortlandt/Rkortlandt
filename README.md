@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Rkortlandt
-- 👀 I’m interested in ... Java and C programing 
-- 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... rkortlandt@gmail.com
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:2A7B9B,100:854fb9&text=Rkortlandt&textBg=false&desc=everything%20is%20fine...&descAlign=67&descAlignY=61&animation=fadeIn&fontColor=ffffff"/></img>
 
-<!---
-Rkortlandt/Rkortlandt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<p> 👀 I’m interested in ... Java and C programing </p>
+<p> 🌱 I’m currently learning ... Everything </p>
+<p> 📫 How to reach me ... rkortlandt@gmail.com </p>
+<div/>
+<br>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rkortlandt&show_icons=true&theme=merko" alt="GitHub Stats" />
+</p>
+
+
