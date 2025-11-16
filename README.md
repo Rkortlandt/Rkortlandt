@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:2A7B9B,100:57C785&text=Rkortlandt&textBg=false&desc=everything%20is%20fine...&descAlign=67&descAlignY=80&animation=fadeIn&fontColor=auto&fontSize=120"/></img>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:2A7B9B,100:57C785&text=Rkortlandt&textBg=false&desc=everything%20is%20fine...&descAlign=67&descAlignY=80&animation=fadeIn&fontColor=ffffff&fontSize=120"/></img>
 
 <div align="center">
 <p> 👀 I’m interested in ... Java and C programing </p>
