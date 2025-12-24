@@ -6,7 +6,7 @@
 <p> 🌱 I’m currently learning ... Everything </p>
 <p> 📫 How to reach me ... rkortlandt@gmail.com </p>
 <div/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rkortlandt&show_icons=true&hide_border=true&theme=transparent&title_color=2A7B9B&icon_color=57C785" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rkortlandt&show_icons=true&hide_border=true&theme=transparent&title_color=2A7B9B&icon_color=57C785" alt="GitHub Stats" />  
 </p>
 
 
