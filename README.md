@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<p> 👀 I’m interested in ... Zig </p>
+<p> 👀 I’m interested in ... Zig, Go </p>
 <p> 🌱 I’m currently learning ... Everything </p>
 <p> 📫 How to reach me ... rkortlandt@gmail.com </p>
 <div/>
